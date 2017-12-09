@@ -1,0 +1,3 @@
+this is the c.txt
+add by ./junz/g-tutorial/  brcnch feature-D
+hello!
